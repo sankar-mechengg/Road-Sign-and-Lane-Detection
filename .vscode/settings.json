@@ -1,0 +1,49 @@
+{
+  "workbench.editorAssociations": {
+    "*.ipynb": "jupyter-notebook" // if commented, will open as JSON
+    // "*.ipynb": "default" //do not turn it on else will not open JupyterNB by default
+  },
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.autopep8"
+  },
+  "python.formatting.provider": "none",
+  "cSpell.words": [
+    "annot",
+    "arange",
+    "autopct",
+    "barplot",
+    "boxplot",
+    "cmap",
+    "coolwarm",
+    "countplot",
+    "dectree",
+    "figsize",
+    "lbfgs",
+    "logit",
+    "logreg",
+    "Neighbours",
+    "neunet",
+    "objectness",
+    "pairplot",
+    "pctdistance",
+    "Pixmap",
+    "polyfit",
+    "proba",
+    "ranfor",
+    "relu",
+    "rmse",
+    "Roboethics",
+    "Roboto",
+    "savefig",
+    "seaborn",
+    "sklearn",
+    "startangle",
+    "svmach",
+    "ultralytics",
+    "usmanchaudhry",
+    "xlabel",
+    "xlim",
+    "ylabel",
+    "ylim"
+  ]
+}
